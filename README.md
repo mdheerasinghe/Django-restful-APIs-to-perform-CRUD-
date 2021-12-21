@@ -22,7 +22,7 @@ $ git clone  https://github.com/mdheerasinghe/Django-restful-APIs-to-perform-CRU
 ```console   
 	python manage.py runserver  
 ```   
-```api urls
+```api urls | App superuser: --> admin/password.1
 http://127.0.0.1:8000/api/categories/
 http://127.0.0.1:8000/api/categories/?id=1
 http://127.0.0.1:8000/api/products/
